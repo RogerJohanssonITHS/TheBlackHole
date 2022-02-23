@@ -2,3 +2,4 @@
 * 10 pistol
 * 30 situps
 * run 10km
+* För jobbigt!
